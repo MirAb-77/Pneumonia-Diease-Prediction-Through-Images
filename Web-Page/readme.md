@@ -23,7 +23,8 @@ Here are some screenshots of the application in action:
 
 *Home Page: Enter your health information*
 
-![Recommendations Page](path/to/your/screenshot2.png)
+![Recommendations Page](https://github.com/user-attachments/assets/85a52a3f-4a69-4eb5-a45e-758dd6fd6519)
+
 *Recommendations Page: Tailored health advice*
 
 ---
@@ -32,7 +33,7 @@ Here are some screenshots of the application in action:
 
 Watch the video below to see how the Health Recommendations Web Page works:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://github.com/MirAb-77/Pneumonia-Diease-Prediction-Through-Images/blob/main/Web-Page/No%20Diease%20Video.zip)
 *Click the image to watch the demonstration!*
 
 ---
