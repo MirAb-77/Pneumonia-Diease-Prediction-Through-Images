@@ -1,7 +1,3 @@
-Below is the improved README file for your **Pneumonia Detection Project**. It includes all requested sections, structured professionally, and designed for readability.
-
----
-
 # **Pneumonia Detection Using Chest X-rays**
 
 This project focuses on developing a deep learning-based solution to detect pneumonia from chest X-ray images. Leveraging a Convolutional Neural Network (CNN) architecture, the system classifies X-rays into two categories: Normal and Pneumonia.  
@@ -95,7 +91,7 @@ A web-based interface was developed using **Flask**/**Streamlit** to provide use
 - Viewing classification results (Normal or Pneumonia).  
 - Downloading predictions as reports.  
 
-[View Web Application Repository](https://github.com/yourusername/yourrepository/tree/main/web_app)
+[View Web Application Repository](https://github.com/MirAb-77/Pneumonia-Diease-Prediction-Through-Images/tree/main/Web-Page)
 
 ---
 
