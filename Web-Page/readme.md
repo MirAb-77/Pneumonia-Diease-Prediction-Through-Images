@@ -33,7 +33,7 @@ Here are some screenshots of the application in action:
 
 Watch the video below to see how the Health Recommendations Web Page works:
 
-[![Watch the video](https://github.com/MirAb-77/Pneumonia-Diease-Prediction-Through-Images/blob/main/Web-Page/No%20Diease%20Video.zip)
+(https://github.com/MirAb-77/Pneumonia-Diease-Prediction-Through-Images/blob/main/Web-Page/No%20Diease%20Video.zip)
 *Click the image to watch the demonstration!*
 
 ---
